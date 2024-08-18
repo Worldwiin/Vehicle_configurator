@@ -27,11 +27,24 @@ git clone https://github.com/Worldwiin/Vehicle_configurator.git
 
 ```bash
 cd Vehicle_configurator
-Set up the backend:
-Navigate to the backend directory: cd backend
-Install dependencies: mvn clean install
-Run the Spring Boot application: mvn spring-boot:run
-Set up the frontend:
-Navigate to the frontend directory: cd frontend
-Install dependencies: npm install
-Start the React application: npm start
+
+# Set up the backend:
+# Navigate to the backend directory:
+cd backend
+
+# Install dependencies:
+mvn clean install
+
+# Run the Spring Boot application:
+mvn spring-boot:run
+
+# Set up the frontend:
+# Navigate to the frontend directory:
+cd frontend
+
+# Install dependencies:
+npm install
+
+# Start the React application:
+npm start
+
