@@ -20,6 +20,14 @@ Vehicle Configurator is a B2B portal designed for leasing companies to provide t
 4. **Pricing**: View dynamic pricing adjustments as per the selected configurations.
 5. **Transaction**: Complete the leasing transaction, and upon success, receive an invoice in PDF format.
 
+## Screenshots
+
+![Screenshot 1](vehicle_configurator_react_frontend/public/images/Screenshot_1.png)
+![Screenshot 2](vehicle_configurator_react_frontend/public/images/Screenshot_2.png)
+![Screenshot 3](vehicle_configurator_react_frontend/public/images/Screenshot_3.png)
+![Screenshot 4](vehicle_configurator_react_frontend/public/images/Screenshot_4.png)
+![Screenshot 5](vehicle_configurator_react_frontend/public/images/Screenshot_5.png)
+
 ## Installation
 
 ### Clone the Repository
