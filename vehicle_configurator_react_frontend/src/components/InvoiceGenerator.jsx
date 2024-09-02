@@ -208,7 +208,7 @@ currentY += verticalSpace;
       const uniqueId = uuidv4();
       const path = `${UN}_invoice_${uniqueId}.pdf`;
       doc.save(path);
-      const pt = `C:/Users/ajink/Downloads/${path}`;
+      const pt = `/Users/vishvajeetpatil/Downloads/${path}`;
       sessionStorage.setItem('invoicePath', pt);
       setInvoicePath(path);
     };
