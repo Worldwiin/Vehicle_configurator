@@ -1,0 +1,609 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\models\\emaildetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\models\\emaildetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\services\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\services\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\repository\\vehicledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\repository\\vehicledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\dto\\alternatecomponentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\dto\\alternatecomponentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\services\\alternatecomponentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\services\\alternatecomponentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\services\\ialternatecomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\services\\ialternatecomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\models\\alternatecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\models\\alternatecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\controllers\\alternatecomponentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\controllers\\alternatecomponentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\dto\\alternatecomponentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\dto\\alternatecomponentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/v_conf/True/SqlTable/dbo.components.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\services\\componentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\services\\componentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\controllers\\componentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\controllers\\componentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\services\\icomponentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\services\\icomponentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\controllers\\segmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\controllers\\segmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\services\\isegmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\services\\isegmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\services\\segmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\services\\segmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\services\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\services\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\services\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\services\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\services\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\services\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\services\\imanufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\services\\imanufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\dto\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\dto\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\v_conf_dn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\v_conf_dn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\services\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\services\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|c:\\users\\ajink\\onedrive\\desktop\\cdac\\.net\\rest_api\\practice\\v_conf_dn\\v_conf_dn\\models\\segment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A1B083-4E5A-4D0D-A68B-F913CA222031}|v_conf_dn\\v_conf_dn.csproj|solutionrelative:v_conf_dn\\models\\segment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Models\\EmailDetails.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Models\\EmailDetails.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Models\\EmailDetails.cs",
+              "RelativeToolTip": "v_conf_dn\\Models\\EmailDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:25:55.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "v_conf_dn\\Controllers\\EmailController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAqwDQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:25:09.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Dto\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Dto\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Dto\\LoginRequest.cs",
+              "RelativeToolTip": "v_conf_dn\\Dto\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:18:04.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\UserService.cs",
+              "RelativeToolTip": "v_conf_dn\\Services\\UserService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwCQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:56:36.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\IUser.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Services\\IUser.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\IUser.cs",
+              "RelativeToolTip": "v_conf_dn\\Services\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:55:53.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Program.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Program.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Program.cs",
+              "RelativeToolTip": "v_conf_dn\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:38:52.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\UserController.cs",
+              "RelativeToolTip": "v_conf_dn\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:59:23.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Models\\User.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Models\\User.cs",
+              "RelativeToolTip": "v_conf_dn\\Models\\User.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA8wCQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:57:29.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehicleDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Repository\\VehicleDBContext.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Repository\\VehicleDBContext.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Repository\\VehicleDBContext.cs",
+              "RelativeToolTip": "v_conf_dn\\Repository\\VehicleDBContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:28:45.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAlternateComponents.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\IAlternateComponents.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Services\\IAlternateComponents.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\IAlternateComponents.cs",
+              "RelativeToolTip": "v_conf_dn\\Services\\IAlternateComponents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:29:38.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlternateComponentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Dto\\AlternateComponentDto.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Dto\\AlternateComponentDto.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Dto\\AlternateComponentDto.cs",
+              "RelativeToolTip": "v_conf_dn\\Dto\\AlternateComponentDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA2wAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:22:16.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AlternateComponentService.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\AlternateComponentService.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Services\\AlternateComponentService.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\AlternateComponentService.cs",
+              "RelativeToolTip": "v_conf_dn\\Services\\AlternateComponentService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAwCkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:30:45.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AlternateComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Models\\AlternateComponent.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Models\\AlternateComponent.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Models\\AlternateComponent.cs",
+              "RelativeToolTip": "v_conf_dn\\Models\\AlternateComponent.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:27:17.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AlternateComponentController.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\AlternateComponentController.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Controllers\\AlternateComponentController.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\AlternateComponentController.cs",
+              "RelativeToolTip": "v_conf_dn\\Controllers\\AlternateComponentController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCcAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:32:15.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AlternateComponentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Dto\\AlternateComponentResponse.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Dto\\AlternateComponentResponse.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Dto\\AlternateComponentResponse.cs",
+              "RelativeToolTip": "v_conf_dn\\Dto\\AlternateComponentResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:05:47.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.components [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/v_conf/True/SqlTable/dbo.components.sql",
+              "ToolTip": "dbo.components [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-18T08:14:11.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ComponentController.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\ComponentController.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Controllers\\ComponentController.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\ComponentController.cs",
+              "RelativeToolTip": "v_conf_dn\\Controllers\\ComponentController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:47:17.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ModelController.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\ModelController.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Controllers\\ModelController.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\ModelController.cs",
+              "RelativeToolTip": "v_conf_dn\\Controllers\\ModelController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:42:19.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ComponentService.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\ComponentService.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Services\\ComponentService.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\ComponentService.cs",
+              "RelativeToolTip": "v_conf_dn\\Services\\ComponentService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:49:06.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManufacturerController.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\ManufacturerController.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Controllers\\ManufacturerController.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\ManufacturerController.cs",
+              "RelativeToolTip": "v_conf_dn\\Controllers\\ManufacturerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:48:49.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Models\\Model.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Models\\Model.cs",
+              "RelativeToolTip": "v_conf_dn\\Models\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:43:56.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IComponentService.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\IComponentService.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Services\\IComponentService.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\IComponentService.cs",
+              "RelativeToolTip": "v_conf_dn\\Services\\IComponentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:48:10.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SegmentController.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\SegmentController.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Controllers\\SegmentController.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\SegmentController.cs",
+              "RelativeToolTip": "v_conf_dn\\Controllers\\SegmentController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:47:34.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SegmentService.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\SegmentService.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Services\\SegmentService.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\SegmentService.cs",
+              "RelativeToolTip": "v_conf_dn\\Services\\SegmentService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:38:53.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISegmentService.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\ISegmentService.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Services\\ISegmentService.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\ISegmentService.cs",
+              "RelativeToolTip": "v_conf_dn\\Services\\ISegmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:37:32.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Services\\IVehicleService.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\IVehicleService.cs",
+              "RelativeToolTip": "v_conf_dn\\Services\\IVehicleService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBEAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:03:53.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\VehicleService.cs",
+              "RelativeToolTip": "v_conf_dn\\Services\\VehicleService.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAqwF4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:04:43.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ModelService.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\ModelService.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Services\\ModelService.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\ModelService.cs",
+              "RelativeToolTip": "v_conf_dn\\Services\\ModelService.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAqwDgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:41:41.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManufacturerService.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\ManufacturerService.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Services\\ManufacturerService.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\ManufacturerService.cs",
+              "RelativeToolTip": "v_conf_dn\\Services\\ManufacturerService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:09:25.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "v_conf_dn\\Controllers\\VehicleController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:09:54.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IManufacturerService.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\IManufacturerService.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Services\\IManufacturerService.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\IManufacturerService.cs",
+              "RelativeToolTip": "v_conf_dn\\Services\\IManufacturerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:07:22.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Dto\\VehicleDto.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Dto\\VehicleDto.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Dto\\VehicleDto.cs",
+              "RelativeToolTip": "v_conf_dn\\Dto\\VehicleDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:42:23.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "v_conf_dn.csproj",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\v_conf_dn.csproj",
+              "RelativeDocumentMoniker": "v_conf_dn\\v_conf_dn.csproj",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\v_conf_dn.csproj",
+              "RelativeToolTip": "v_conf_dn\\v_conf_dn.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T07:38:34.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Models\\Vehicle.cs",
+              "RelativeToolTip": "v_conf_dn\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:32:09.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Models\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Models\\Manufacturer.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Models\\Manufacturer.cs",
+              "RelativeToolTip": "v_conf_dn\\Models\\Manufacturer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:01:26.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IModelService.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\IModelService.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Services\\IModelService.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Services\\IModelService.cs",
+              "RelativeToolTip": "v_conf_dn\\Services\\IModelService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:40:34.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Segment.cs",
+              "DocumentMoniker": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Models\\Segment.cs",
+              "RelativeDocumentMoniker": "v_conf_dn\\Models\\Segment.cs",
+              "ToolTip": "C:\\Users\\ajink\\OneDrive\\Desktop\\CDAC\\.NET\\REST_API\\practice\\v_conf_dn\\v_conf_dn\\Models\\Segment.cs",
+              "RelativeToolTip": "v_conf_dn\\Models\\Segment.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:25:02.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
